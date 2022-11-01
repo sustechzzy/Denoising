@@ -1,1 +1,1 @@
-# Denoising
+# Zeng, Z., Lu, T., Han, P., Zhang, D., Yang, X. H., Shi, Y., ... & Ji, H. (2022). Microseismic data denoising in the sychrosqueezed domain by integrating the wavelet coefficient thresholding and pixel connectivity. Geophysical Journal International, 232(2), 1113-1128.
